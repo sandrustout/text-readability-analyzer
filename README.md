@@ -1,4 +1,4 @@
-```markdown
+
 # Readability Calculator
 
 A C program that calculates the approximate US grade level needed to comprehend a given text. It evaluates the text using the **Coleman-Liau index**, which relies on the average number of letters and sentences per 100 words.
